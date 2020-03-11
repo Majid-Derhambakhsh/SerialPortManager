@@ -1,3 +1,5 @@
+![GitHub Logo](Serial-Port-Manager.png)
+
 # SerialPortManager
 Library to find and use the serial ports
 
