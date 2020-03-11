@@ -26,9 +26,9 @@ Library to find and use the serial ports
 
 ### The SerialPortManager library can be used as follows:
 1.1  Instal package from NuGet, for example:  
-
-       Install-Package MaterialDesignThemes
-              
+```javascript
+       Install-Package SerialPortManager
+```              
 - Goto Project -> Manage NuGet Packages... -> Search the SerialPortManager
 - Download from [NuGet](https://www.nuget.org/packages/SerialPortManager)  
 
