@@ -1,4 +1,4 @@
-![GitHub Logo](https://lh5.googleusercontent.com/lfsiCJfMsfwa-SvwuAWg7DRL-IEL3bdI93DjrbQGgTWAZXAIyS7IkJRmW5ibWKN3f-r1CmxlUrUbDg=w958-h965)
+![GitHub Logo](Serial-Port-Manager.png)
 
 # SerialPortManager
 Library to find and use the serial ports
